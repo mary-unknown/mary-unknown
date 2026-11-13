@@ -1,4 +1,10 @@
-## Hi there 👋
+## Howdy GitHub! 
+
+I am currently studying for the CCNA. My goal is to transition to working in IT and networking in the next few months. 
+
+I am not a programmer, but I am a huge fan of open source software and linux. I am also passionate about digital privacy, cybersecurity, networking, right to repair, and decentralized web. 
+
+She/her, GenZ. I would be happy to connect over cool projects or discussions!
 
 <!--
 **mary-unknown/mary-unknown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
